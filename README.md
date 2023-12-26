@@ -1,4 +1,4 @@
-# Still in W.I.P can contain some Bugs and unlogical codes
+# Still W.I.P can contain some Bugs and unlogical codes
 
 # create-svelte
 
